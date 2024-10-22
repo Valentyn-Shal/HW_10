@@ -62,3 +62,9 @@ git config --global user.email "kindeser13@gmail.com"
    61  git merge develop
    62  git log
    63  history > command_list.csv
+   64  git push origin main
+   65  git aadd .
+   66  git add .
+   67  git commit -m "Add command_list.csv and prepare for push"
+   68  git push origin main
+   69  history > command_list.csv
